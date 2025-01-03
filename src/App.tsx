@@ -6,6 +6,7 @@ function App() {
     <>
       <Nav />
       <main>
+        <h3>Search For a Movie!</h3>
         <Outlet />
       </main>
     </>
